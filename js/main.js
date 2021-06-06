@@ -137,7 +137,6 @@ function cardsGraficasObjeto(array) {
         </button>
         <div id="agregarBoton" class="pt-10px">
         </div>
-        
         </form>`
   })
   localStorage.setItem("listaGraficas", JSON.stringify(acumuladorObjetoGrafico))
